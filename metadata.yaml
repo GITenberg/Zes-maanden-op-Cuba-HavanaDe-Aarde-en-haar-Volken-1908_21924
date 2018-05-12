@@ -1,0 +1,27 @@
+_repo: Zes-maanden-op-Cuba-HavanaDe-Aarde-en-haar-Volken-1908_21924
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berchon, Charles
+    gutenberg_agent_id: '24973'
+    url: http://www.gutenberg.org/2009/agents/24973
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2007-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21924'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Description and travel'
+- !lcc 'F1751'
+title: 'Zes maanden op Cuba—Havana
+
+  De Aarde en haar Volken, 1908'
+url: http://www.gutenberg.org/ebooks/21924
