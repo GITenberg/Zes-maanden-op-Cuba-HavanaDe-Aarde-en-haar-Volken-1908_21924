@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24973'
     url: http://www.gutenberg.org/2009/agents/24973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21924#Zes-maanden-op-Cuba-HavanaDe-Aarde-en-haar-Volken-1908
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2007-06-25'
 gutenberg_type: Text
